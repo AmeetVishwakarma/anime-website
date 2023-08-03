@@ -69,3 +69,15 @@ footer{
     background: #fff;
     color: #2b3035;
 }
+
+
+@media (max-width: 500px) { 
+
+    .hero {
+        /* background: url(Images/zen.gif); */
+        background-size: 100% 48%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 48vh;
+    }
+}
